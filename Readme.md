@@ -7,6 +7,13 @@ In this exercise you'll create a data access layer for a domain object Customer.
 	- id (int)
 	- name (varchar)
 	- email (varchar)
+```
+create table customer(
+id int PRIMARY KEY,
+name varchar(20),
+email varchar(100)
+);
+```
 
 
 2. Create a spring project boot named customerdata using one of the spring boot project creation method
