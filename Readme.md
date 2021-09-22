@@ -9,7 +9,7 @@ In this exercise you'll create a data access layer for a domain object Customer.
 	- email (varchar)
 
 
-2. Create a spring project boot named customerdata using one of the spring boot project creation method
+2. Create a spring boot project named customerdata using one of the spring boot project creation method
   - (start.spring.io, IDE or CLI)
 
 
