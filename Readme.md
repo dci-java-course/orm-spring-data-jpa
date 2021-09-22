@@ -16,7 +16,7 @@ email varchar(100)
 ```
 
 
-2. Create a spring project boot named customerdata using one of the spring boot project creation method
+2. Create a spring boot project named customerdata using one of the spring boot project creation method
   - (start.spring.io, IDE or CLI)
 
 
