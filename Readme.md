@@ -1,4 +1,4 @@
-# Exercise # 2 - Spring Data JPA
+# Exercise # 6 - Spring Data JPA
 
 
 In this exercise you'll create a data access layer for a domain object Customer.
