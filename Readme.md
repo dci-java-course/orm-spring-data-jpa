@@ -3,7 +3,7 @@
 
 In this exercise you'll create a data access layer for a domain object Customer.
 
-1. Create a customer table in your mysql database with 3 fields in it.
+1. Create a customer table in your database with 3 fields in it.
 	- id (int)
 	- name (varchar)
 	- email (varchar)
