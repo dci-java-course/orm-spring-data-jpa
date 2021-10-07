@@ -3,6 +3,8 @@
 
 In this exercise you'll create a data access layer for a domain object Customer.
 
+Verify that you have PostgreSQL server (version > 9.6.25) and any sql client to connect to the PostgreSQL server pre-installed. If you don't have you can download the installer from [Here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads). The installer includes the PostgreSQl server, pgAdmin: a graphical tool for managing and developing your databases. 
+
 1. Create a customer table in your database with 3 fields in it.
 	- id (int)
 	- name (varchar)
